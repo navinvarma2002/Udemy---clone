@@ -19,8 +19,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Acknowledgements
 
-- Special thanks to Udemy for inspiring this project.
-- Hat tip to [Bootstrap](https://getbootstrap.com/) for providing CSS framework inspiration.
+ Special thanks to Udemy for inspiring this project.
 
 
 
